@@ -1,7 +1,7 @@
 The name of the progect is DC motor control.
 
 Autor: Moskalev Yuriy.
-This program was written using C.
+This program was written using C programming language.
 
 In order to DC motor control used microcontroller ATmega16A.
 
